@@ -7,3 +7,6 @@ Console.WriteLine(jmeno);
 
 Console.WriteLine($"Tvoje jméno má {jmeno.Length} písmen.");
 
+Console.WriteLine("lablala");
+
+
